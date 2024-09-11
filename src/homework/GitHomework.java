@@ -6,7 +6,8 @@ public class GitHomework {
 		System.out.println("Batch 12: Git Class Lecture");
 		int age = 12;
 		String name = "John";
-		//This is coming deom github
+		//This is coming from github
+		String city = "Houston";
 		
 	}
 	
