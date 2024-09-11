@@ -7,7 +7,11 @@ public class GitHomework {
 		int age = 12;
 		String name = "John";
 		//This is coming from github
+		String lastName = "Cena";
+		//This is coming from github
 		String city = "Houston";
+		//This is coming from github
+		
 		
 	}
 	
